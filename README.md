@@ -2,7 +2,7 @@
 ---
 ## Seja bem-vindo(a)! 
 
-Entusiasta de Data Science e Inteligência Artificial, residente em Natal/RN. Atualmente, estou mergulhado em Cloud Computing e interessado em projetos que combinem análise de dados e IA. Leitor ávido e ouvinte assíduo de podcasts.
+Sou um entusiasta de Data Science e Inteligência Artificial, residente em Natal/RN. Atualmente, estou mergulhado em Cloud Computing e interessado em projetos que combinem análise de dados e IA. Leitor ávido e ouvinte assíduo de podcasts.
 <div align="center">
 
 <img src="https://static.scootpad.com/v2/www/platform/data-science.gif" width="400" height="400">
