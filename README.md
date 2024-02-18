@@ -23,7 +23,7 @@ Sou um entusiasta de Data Science e Inteligência Artificial, residente em Natal
 ---
 ## Contato
 
-<a href="https://www.linkedin.com/in/anderson-egberto/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://medium.com/@AndersonECSalles"><img loading="lazy" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a><a href="https://www.instagram.com/andersonegberto/?hl=pt-br"><img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/anderson-egberto/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://medium.com/@AndersonECSalles"><img loading="lazy" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/andersonegberto/?hl=pt-br"><img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
 
 
 
