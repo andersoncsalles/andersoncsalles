@@ -1,8 +1,7 @@
 # Anderson Salles
 ---
 ## Seja bem-vindo(a)! 
-
-Sou um entusiasta de Data Science e Inteligência Artificial, residente em Natal/RN. Atualmente, estou mergulhado em Cloud Computing e interessado em projetos que combinem análise de dados e IA. Leitor ávido e ouvinte assíduo de podcasts.
+Profissional de Data Science e Inteligência Artificial, residente em Natal/RN. Atualmente, estou mergulhado em Cloud Computing e interessado em projetos que combinem análise de dados e IA. Leitor ávido e ouvinte assíduo de podcasts.
 <div align="center">
 
 <img src="https://static.scootpad.com/v2/www/platform/data-science.gif" width="250" height="250">
